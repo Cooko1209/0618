@@ -9,6 +9,7 @@ html {
   overflow: hidden; /* 隐藏溢出内容 */
 }
 .con {
+  z-index: 1;
   max-width: 100%;
   padding: 0;
   margin: 0 auto;
@@ -33,6 +34,25 @@ html {
   height: 100%;
   overflow: hidden;
   z-index: -1;
+  padding-top: 10%;
+}
+.ttop{
+padding-top: 5%;
+}
+
+.block {
+  height: 100%; /* 調整此值來設置區塊的高度 */
+  background-color: #f8f9fa;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.block video {
+  z-index: -1;
+  width: 100%;
+  height: 100%;
 }
 
 .video-foreground {
@@ -44,19 +64,20 @@ html {
   transform: translate(-50%, -50%);
   pointer-events: none;
   /* 禁用影片控制
-  opacity: 0; /* 透明度为 0 */
-  transition: opacity 1s ease-in-out; /* 添加漸變效果 */
+  opacity: 0; /* 透明度为 0
+  transition: opacity 1s ease-in-out; /* 添加漸變效果*/
 }
 
 iframe {
   width: 100vw;
   height: 56.25vw;
-  /* 16:9 aspect ratio */
+  /* 16:9 aspect ratio*/
   min-height: 100vh;
   min-width: 177.78vh;
-  /* 16:9 aspect ratio */
+  /* 16:9 aspect ratio*/
 }
 
+/* 卡片样式 */
 .content {
   position: relative;
   z-index: 1;
@@ -97,12 +118,20 @@ iframe {
 
 /* 标题样式 */
 .header {
-  position: relative; /* 使标题固定在顶部 */
+  position: relative;/* 使标题固定在顶部 */
   width: 100%;
   z-index: 1;
   top: 0;
   left: 0;
   right: 0;
+  bottom: 0;
+  font-family: "標楷體", sans-serif;
+  font-size: 20px;
+  background: rgba(255, 255, 255, 0.3); /* 半透明背景 */
+  padding: 20px; /* 调整为距离边框40px */
+  display: flex;
+  justify-content: center; /* 在主軸上均勻分配子元素的空間 */
+  flex-wrap: wrap; /* 允许换行 *//
 }
 
 .header h1 {
@@ -311,7 +340,7 @@ iframe {
 /* 页脚样式 */
 .footer {
   width: 100%;
-  position: absolute;
+  position: absolute; /* 使页脚固定在底部 */
   bottom: 0;
   font-family: "標楷體", sans-serif;
   font-size: 20px;
@@ -336,7 +365,7 @@ ol {
   color: inherit; /* 链接颜色与父元素一致 */
 }
 
-/*banner 动画 流星动画样式 */
+/*banner 动画 流星动画样式
 .stars {
   position: absolute;
   width: 100%;
@@ -361,7 +390,7 @@ ol {
   transition: 0.5s ease-in-out;
   animation: meteor linear infinite;
 }
-/*這段CSS代碼為每個星星（star1 到 star5）設置了它們的初始位置和動畫持續時間。left 和 top 屬性用於設置星星的位置，而 animation-duration 用於設置動畫的持續時間。特定的星星還設置了寬度。*/
+/*這段CSS代碼為每個星星（star1 到 star5）設置了它們的初始位置和動畫持續時間。left 和 top 屬性用於設置星星的位置，而 animation-duration 用於設置動畫的持續時間。特定的星星還設置了寬度。
 .stars .star1 {
   left: 35%;
   top: 25%;
@@ -405,12 +434,12 @@ ol {
 100%：星星移動到頁面底部，保持不可見狀態。
 修改與應用：
 如果需要進一步調整或優化動畫效果，可以根據需要調整每個星星的left、top、animation-duration和動畫關鍵幀的具體數值。此外，可以使用類似animation-delay來錯開每個星星的動畫開始時間，增加動畫的多樣性和現實感。
-*/
+
 @keyframes meteor {
   0% {
     opacity: 1;
-    margin-top: -250px; /* 這裡控制星星的高度 */
-    margin-right: -250px; /* 這裡控制星星的寬度 */
+    margin-top: -250px; /* 這裡控制星星的高度
+    margin-right: -250px; /* 這裡控制星星的寬度
     animation-delay: 0.5s;
   }
 
@@ -419,8 +448,8 @@ ol {
   }
 
   15% {
-    margin-top: 250px; /* 這裡控制星星的高度 */
-    margin-left: -500px; /* 這裡控制星星的寬度 */
+    margin-top: 250px; /* 這裡控制星星的高度
+    margin-left: -500px; /* 這裡控制星星的寬度
     opacity: 0;
   }
 
@@ -428,3 +457,4 @@ ol {
     opacity: 0;
   }
 }
+*/
