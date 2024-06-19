@@ -245,6 +245,15 @@ iframe {
   cursor: pointer;
 }
 
+.button:hover + #card-c {
+  z-index: 1;
+  display: block;
+}
+
+.button:focus {
+  background-color: #0056b3;
+}
+
 /* 侧边栏样式 */
 .sidebar {
   position: fixed;

@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = mvcdemopj
 build_property.RootNamespace = mvcdemopj
-build_property.ProjectDir = G:\vsc2022\templates\mvcdemopj\
+build_property.ProjectDir = C:\Users\Wed406\Desktop\mvcdemopj\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\vsc2022\templates\mvcdemopj
+build_property.MSBuildProjectDirectory = C:\Users\Wed406\Desktop\mvcdemopj
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateArea.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateArea.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVBcmVhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateController.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVDb250cm9sbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateDbContext.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateDbContext.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVEYkNvbnRleHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateDbContextTables.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateDbContextTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVEYkNvbnRleHRUYWJsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateMetadata.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateMetadata.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVNZXRhZGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateMetadataTables.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateMetadataTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVNZXRhZGF0YVRhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateRepository.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateRepository.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVSZXBvc2l0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateRepositorySort.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateRepositorySort.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVSZXBvc2l0b3J5U29ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateRepositoryTables.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateRepositoryTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVSZXBvc2l0b3J5VGFibGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateView.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/CreateViewList.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/CreateViewList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxDcmVhdGVWaWV3TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/Index.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/CodeGenerator/Message.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/CodeGenerator/Message.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Home/Index.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Home/Privacy.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Shared/Error.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Shared/_LayoutCodeGenerator.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Shared/_LayoutCodeGenerator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDb2RlR2VuZXJhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Shared/_PartialAlertMessage.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Shared/_PartialAlertMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQWxlcnRNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/_ViewImports.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/_ViewStart.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/vsc2022/templates/mvcdemopj/Views/Shared/_Layout.cshtml]
+[C:/Users/Wed406/Desktop/mvcdemopj/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zsas4wbavo

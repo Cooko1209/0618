@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj": {}
+    "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj": {}
   },
   "projects": {
-    "G:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj": {
+    "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj",
+        "projectUniqueName": "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj",
         "projectName": "mvcdemopj",
-        "projectPath": "G:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj",
+        "projectPath": "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj",
         "packagesPath": "C:\\Users\\Wed406\\.nuget\\packages\\",
-        "outputPath": "G:\\vsc2022\\templates\\mvcdemopj\\obj\\",
+        "outputPath": "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

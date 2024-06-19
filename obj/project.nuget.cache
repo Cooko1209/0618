@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lM6uAffYF3nWb+uDxo2qFBWec/W7OSx1IO+bGTYLqSPKKw9PeSPSX43dzACGe/smRuJeGA/NQWrCDOUl7n4F3g==",
+  "dgSpecHash": "LLWQ5CR94+6hJtdxdssqsMZkv9TBX5n9STmuUvkkxCUJsl1rNSFhl5TwZKQ7dZYZVJ+SR5js8AFIPCRW63ZeyA==",
   "success": true,
-  "projectFilePath": "G:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj",
+  "projectFilePath": "C:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wed406\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "C:\\Users\\Wed406\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

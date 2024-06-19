@@ -12161,11 +12161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj",
+      "projectUniqueName": "c:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj",
       "projectName": "mvcdemopj",
-      "projectPath": "g:\\vsc2022\\templates\\mvcdemopj\\mvcdemopj.csproj",
+      "projectPath": "c:\\Users\\Wed406\\Desktop\\mvcdemopj\\mvcdemopj.csproj",
       "packagesPath": "C:\\Users\\Wed406\\.nuget\\packages\\",
-      "outputPath": "g:\\vsc2022\\templates\\mvcdemopj\\obj\\",
+      "outputPath": "c:\\Users\\Wed406\\Desktop\\mvcdemopj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

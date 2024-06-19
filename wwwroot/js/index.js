@@ -147,13 +147,13 @@ document.addEventListener("DOMContentLoaded", function () {
 */
 document.addEventListener('DOMContentLoaded', () => {
   const button = document.getElementById('showCardButton');
-  const card = document.getElementById('card');
+  const cardContainer = document.getElementById('card');
 
   button.addEventListener('mouseover', () => {
-    card.style.display = 'block';
+    cardContainer.style.display = 'block';
   });
 
   button.addEventListener('mouseout', () => {
-    card.style.display = 'none';
+    cardContainer.style.display = 'none';
   });
 });
