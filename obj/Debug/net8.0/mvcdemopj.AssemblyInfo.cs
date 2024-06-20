@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvcdemopj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be182e12b6d5d02ccdfea78a7a13f7ffb0565e0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4adc93668ae47609866d4c4ace41f0aea39a004e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvcdemopj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvcdemopj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
